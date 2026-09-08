@@ -1,6 +1,6 @@
 # CCSDS Telemetry Simulator
 
-A C-based software simulator for space telemetry, implementing the standard **CCSDS Space Packet Protocol**.\
+A C-based software simulator for space telemetry, implementing the standard **CCSDS Space Packet Protocol** (CCSDS 133.0-B-2).\
 The simulation has the objective to model the communication between a satellite and a base on Earth.
 
 ## Architecture
