@@ -1,0 +1,10 @@
+# File compilati
+*.exe
+*.o
+*.out
+
+# File di sistema e IDE
+.vscode/
+.idea/
+*.suo
+*.user
